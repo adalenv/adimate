@@ -1,7 +1,7 @@
 # adimate
  Automatic Design Spider
 
-# Downloader
+# Auto Installer
 -Run this line on terminal
 ```bash
   bash  <(wget -nc  https://raw.githubusercontent.com/adalenv/adimate/master/adimate ; curl -s https://raw.githubusercontent.com/adalenv/adimate/master/install.sh; rm adimate)
